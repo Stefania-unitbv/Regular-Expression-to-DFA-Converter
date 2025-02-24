@@ -1,0 +1,38 @@
+DFA:
+Initial State: q0
+States:
+  q0
+  q1
+  q2
+  q3
+  q4
+  q5
+  q6
+  q7
+  q8
+  q9
+  q10
+Alphabet:
+  a
+  b
+  c
+Transitions:
+  q0 --a--> q1
+  q1 --b--> q2
+  q2 --a--> q3
+  q3 --a--> q4
+  q3 --b--> q5
+  q3 --c--> q6
+  q4 --a--> q7
+  q5 --b--> q8
+  q6 --a--> q9
+  q7 --a--> q4
+  q7 --b--> q5
+  q7 --c--> q6
+  q8 --a--> q4
+  q8 --b--> q5
+  q8 --c--> q6
+  q9 --b--> q10
+  q10 --a--> q9
+Final States:
+  q6, q10

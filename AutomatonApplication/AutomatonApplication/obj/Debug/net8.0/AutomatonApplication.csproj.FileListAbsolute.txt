@@ -1,0 +1,14 @@
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\obj\Debug\net8.0\AutomatonApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\obj\Debug\net8.0\AutomatonApplication.AssemblyInfoInputs.cache
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\obj\Debug\net8.0\AutomatonApplication.AssemblyInfo.cs
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\obj\Debug\net8.0\AutomatonApplication.csproj.CoreCompileInputs.cache
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\bin\Debug\net8.0\AutomatonApplication.exe
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\bin\Debug\net8.0\AutomatonApplication.deps.json
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\bin\Debug\net8.0\AutomatonApplication.runtimeconfig.json
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\bin\Debug\net8.0\AutomatonApplication.dll
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\bin\Debug\net8.0\AutomatonApplication.pdb
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\obj\Debug\net8.0\AutomatonApplication.dll
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\obj\Debug\net8.0\refint\AutomatonApplication.dll
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\obj\Debug\net8.0\AutomatonApplication.pdb
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\obj\Debug\net8.0\AutomatonApplication.genruntimeconfig.cache
+D:\Facultate\LFC\AutomatonApplication\AutomatonApplication\obj\Debug\net8.0\ref\AutomatonApplication.dll
